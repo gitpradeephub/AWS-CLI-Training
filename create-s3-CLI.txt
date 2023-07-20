@@ -1,0 +1,1 @@
+aws s3api create-bucket --bucket "qtree-learning-s3-bucket" --region us-east-1
